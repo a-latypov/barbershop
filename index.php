@@ -9,6 +9,7 @@
       <div class="container">
 <!--  nav это основгая навигация по сайту-->
         <nav class="main-navigation">
+<<<<<<< HEAD
           <ul>
             <li>
               <a href="#">Информация</a>
@@ -23,15 +24,22 @@
               <a href="#">Контакты</a>
             </li>          
           </ul>
+=======
+>>>>>>> refs/remotes/origin/first-branch
         
         </nav>
 <!--        кнопка входа-->
         <div class="user-block">
+<<<<<<< HEAD
           <a class="login" href="#">Вход</a>        
+=======
+        
+>>>>>>> refs/remotes/origin/first-branch
         </div>
        
       </div>  
     </header>
+<<<<<<< HEAD
 <!--    основное тело (информация)-->
     <main class="container">
       <div class="index-logo">
@@ -141,5 +149,8 @@
         </section>
       </div>
     </footer>
+=======
+  
+>>>>>>> refs/remotes/origin/first-branch
   </body>
 </html>
